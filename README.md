@@ -1,2 +1,2 @@
 # AEG-cTFNAS
-Compact Training-free NAS with Alternating Evolution Game for Medical Image Segmentation
+The code will be made publicly available upon the acceptance of the paper.
